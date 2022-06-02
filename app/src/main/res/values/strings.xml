@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InventoryCesde</string>
+    <string name="name">Name</string>
+    <string name="email">Email address</string>
+    <string name="contraseña">Password</string>
+    <string name="ciudad">City</string>
+    <string name="numero">Number</string>
 </resources>
